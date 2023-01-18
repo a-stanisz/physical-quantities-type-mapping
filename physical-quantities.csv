@@ -1,0 +1,55 @@
+NAME_ENG,NAME_PL,SYMBOL,UNIT,IFC4_TYPE,REVIT_TYPE
+time,czas,t,s,IfcTimeMeasure
+length,długość,l,m,IfcLengthMeasure
+area,powierzchnia,A,m^2,IfcAreaMeasure
+area density,gramatura,ρA,kg/m^2,IfcAreaDensityMeasure
+volume,objętość,V,m^3,IfcVolumeMeasure
+mass,masa,m,kg,IfcMassMeasure
+masa molowa,molecular weight,M,g/mol,IfcMolecularWeightMeasure
+wartość pH,pH measure,pH,"",IfcPHMeasure
+mass per length,masa na długość,m/l,kg/m,IfcMassPerLengthMeasure
+amount of substance,liczność materii,n,mol,IfcAmountOfSubstanceMeasure
+count,liczba,n,"",IfcCountMeasure
+force,siła,F,N,IfcForceMeasure
+weight,ciężar,Fg,N,
+energy,energia,E,J,IfcEnergyMeasure
+electric current,natężenie prądu,I,A,IfcElectricCurrentMeasure
+voltage,napięcie,U,V,IfcElectricVoltageMeasure
+impedance,impedancja,Z,Ω
+electrical resistance,rezystancja,R,Ω,IfcElectricResistanceMeasure
+electrical conductance,konduktancja,G,S,IfcElectricConductanceMeasure
+electrical conductivity,konduktywność,σ,S/m
+electrical capacitance,pojemność elektryczna,C,F,IfcElectricCapacitanceMeasure
+electric charge,ładunek elektryczny,q,C,IfcElectricChargeMeasure
+frequency,częstotliwość,f,Hz,IfcFrequencyMeasure
+inductance,indukcyjność,L,H,IfcInductanceMeasure
+power,moc,P,W,IfcPowerMeasure
+work,praca,W,J
+torque,moment siły,M,N⋅m,IfcTorqueMeasure
+temperature,temperatura,T,K,IfcThermodynamicTemperatureMeasure
+heat,ciepło,Q,J
+heat capacity,pojemność cieplna,C,J/K
+heat flux,strumień ciepła,Q̇,W/m^2,IfcHeatFluxDensityMeasure
+heating value,ciepło spalania,Ho,J/kg,IfcHeatingValueMeasure
+thermal conductivity,przewodność cieplna,λ,W/(m·K),IfcThermalConductivityMeasure
+specific heat capacity,ciepło właściwe,c,J/(kg·K),IfcSpecificHeatCapacityMeasure
+linear velocity,prędkość liniowa,v,m/s,IfcLinearVelocityMeasure
+angular velocity,prędkość kątowa,ω,rad/s,IfcAngularVelocityMeasure
+acceleration,przyspieszenie,a,m/s^2,IfcAccelerationMeasure
+pressure,ciśnienie,p,Pa,IfcPressureMeasure
+pressure drop,strata ciśnienia,Δp,Pa
+linear pressure drop,strata ciśnienia liniowa,Δp,Pa/m
+volumetric flow rate,przepływ objętościowy,Q,m3/s,IfcVolumetricFlowRateMeasure
+mass flow rate,przepływ masowy,ṁ,kg/s,IfcMassFlowRateMeasure
+mass density,gęstość masowa,ρ,kg/m3,IfcMassDensityMeasure
+specific weight,ciężar właściwy,γ,N/m^3
+mass concentration,stężenie masowe,ρi,mg/L,IfcIonConcentrationMeasure
+dynamic viscosity,lepkość dynamiczna,μ,Pa·s,IfcDynamicViscosityMeasure
+kinematic viscosity,lepkość kinematyczna,ν,m2·s^(−1),IfcKinematicViscosityMeasure
+luminous intensity,światłość,Iv,cd,IfcLuminousIntensityMeasure
+luminous flux,strumień świetlny,Φ,lm,IfcLuminousFluxMeasure
+illuminance,natężenie oświetlenia,Ev,lx,IfcIlluminanceMeasure
+poziom mocy akustycznej,sound power level,L_W,dB ref 10^(−12) W,IfcSoundPowerLevelMeasure
+moc akustyczna,sound power,P,W,IfcSoundPowerMeasure
+poziom ciśnienia akustycznego,L_Pa,dB ref 10^(−6) Pa,IfcSoundPressureLevelMeasure
+ciśnienie akustyczne,soud pressure,p,Pa,IfcSoundPressureMeasure
